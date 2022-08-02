@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "chuongtr",
+        "DB_PASSWORD": "Chuongtran2001",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY": "AIzaSyDE0vZHDpE0mNq-2_r2S-ChdZYrXEFXhVA",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
