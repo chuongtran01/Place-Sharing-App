@@ -6,7 +6,6 @@
 ### Table of Contents
 
 - [Description](#description)
-- [How To Use](#how-to-use)
 - [References](#references)
 - [Author Info](#author-info)
 
@@ -14,7 +13,9 @@
 
 ## Description
 
-- A REST API to handle user input, fetch data with use of SpaceX API, and regualate data with MongoDB database.
+- Built MERN Stack application using React, Node, Express, and HTML/CSS that allowed users to share places with images, location, description with others.
+- Implemented a scalable and distributed storage with MongoDB database.
+
 
 #### Technologies
 
